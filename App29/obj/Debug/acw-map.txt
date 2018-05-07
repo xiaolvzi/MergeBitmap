@@ -1,0 +1,4 @@
+App29.MainActivity, App29;md5fc490763461eccc1ac2a74cbde1cf86f.MainActivity
+App29.MainActivity, App29, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fc490763461eccc1ac2a74cbde1cf86f.MainActivity
+App29.MainActivity;md5fc490763461eccc1ac2a74cbde1cf86f.MainActivity
+app29.MainActivity;md5fc490763461eccc1ac2a74cbde1cf86f.MainActivity
